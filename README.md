@@ -14,12 +14,15 @@ I'm a passionate frontend developer with a love for creating beautiful, function
 
 ## 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css,sass,git,github,firebase,appwrite,mongodb,bootstrap,vite,figma,wordpress)
-
-
+![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css,sass,git,github,firebase,appwrite,mongodb,nodejs,express)
+<a align="right" href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" />
+  </a>
+  ![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,vite,figma,wordpress,netlify,vercel)
+ 
 ## 👨‍💻 Want to learn
 
-![My Skills](https://skillicons.dev/icons?i=angular,kotlin)
+![My Skills](https://skillicons.dev/icons?i=angular,kotlin,threejs)
 <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
   </a>
