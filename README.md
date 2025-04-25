@@ -1,6 +1,5 @@
-<img alt="👋 Hi there, I'm Jakub!" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=39D353&center=false&vCenter=true&width=435&lines=👋+Hi+there,+I'm+Jakub+!">
+<img alt="Hi there, I'm Jakub!" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=39D353&center=false&vCenter=true&width=435&lines=Hi+there,+I'm+Jakub+!">
 
-**`🌐 Frontend Developer`**
 
 I'm a passionate frontend developer with a love for creating beautiful, functional, and responsive web applications. Constantly learning, experimenting, and pushing my skills to the next level. I've successfully completed multiple projects, allowing me to gain hands-on experience in technologies like React, Next.js, JavaScript, and TypeScript. Every project I undertake is built with a commitment to clean, maintainable code and a focus on delivering an outstanding user experience.
 
