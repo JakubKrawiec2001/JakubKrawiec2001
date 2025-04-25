@@ -18,14 +18,12 @@ I'm a passionate frontend developer with a love for creating beautiful, function
     <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" />
   </a>
   ![My Skills](https://skillicons.dev/icons?i=bootstrap,vite,figma,wordpress,netlify,vercel)
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,reactnative,expo)
  
 ## 👨‍💻 Want to learn
 
 ![My Skills](https://skillicons.dev/icons?i=angular,kotlin,threejs)
-<a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
-  </a>
+
 
 
 
