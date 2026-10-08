@@ -3,9 +3,6 @@
 
 I'm a passionate frontend developer with a love for creating beautiful, functional, and responsive web applications. Constantly learning, experimenting, and pushing my skills to the next level. I've successfully completed multiple projects, allowing me to gain hands-on experience in technologies like React, Next.js, JavaScript, and TypeScript. Every project I undertake is built with a commitment to clean, maintainable code and a focus on delivering an outstanding user experience.
 
-<img alt="Coding"  src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" />
-
-
 ## Contact Me
 
 - 📫 **kubakrawieckk04@gmail.com**
